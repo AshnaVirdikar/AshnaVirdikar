@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshnaVirdikar
-- 👀 I’m interested in Data Science and it's limitless applications in today's world.
-- 🌱 I’m currently learning JavaScript and constantly learning new algorithms in Machine learning via python and R.
+- 👀 I’m interested in Business Analytics and it's vast applications in today's world.
+- 🌱 I’m currently  learning new algorithms in Machine learning via Python and SQL.
 - 💞️ I’m looking to collaborate on machine learning and AI projects as I want to gain more knowledge using new techniques.
 - 📫 How to reach me @www.linkedin.com/in/ashna-virdikar-675bab157
 
